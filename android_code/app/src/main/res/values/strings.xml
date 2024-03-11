@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">front_camera_continuous_recording_with_service</string>
+    <string name="overview_notification">Check to initiate overview</string>
+</resources>

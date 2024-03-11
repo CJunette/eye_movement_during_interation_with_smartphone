@@ -1,0 +1,15 @@
+{
+    "gesture_14": {
+        "events": {
+            "0": [
+                [
+                    376.92407865607504,
+                    1222.2324352272074,
+                    208817.386558
+                ]
+            ]
+        },
+        "raw_texts": "[  208817.386558] /dev/input/event3: EV_KEY       BTN_TOUCH            DOWN                \n[  208817.386558] /dev/input/event3: EV_KEY       BTN_TOOL_FINGER      DOWN                \n[  208817.386558] /dev/input/event3: EV_ABS       ABS_MT_TRACKING_ID   000011e7            \n[  208817.386558] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    00000a78            \n[  208817.386558] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    00002292            \n[  208817.386558] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   00000047            \n[  208817.386558] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   00000047            \n[  208817.386558] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208817.416585] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   00000044            \n[  208817.416585] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   00000044            \n[  208817.416585] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208817.424525] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   0000003a            \n[  208817.424525] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   0000003a            \n[  208817.424525] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208817.432442] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   00000032            \n[  208817.432442] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   00000032            \n[  208817.432442] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208817.439509] /dev/input/event3: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            \n[  208817.439509] /dev/input/event3: EV_KEY       BTN_TOOL_FINGER      UP                  \n"
+    }
+}
+

@@ -1,0 +1,15 @@
+{
+    "gesture_44": {
+        "events": {
+            "0": [
+                [
+                    986.3315535877068,
+                    724.3626127420004,
+                    208853.708705
+                ]
+            ]
+        },
+        "raw_texts": "[  208853.708705] /dev/input/event3: EV_KEY       BTN_TOUCH            DOWN                \n[  208853.708705] /dev/input/event3: EV_KEY       BTN_TOOL_FINGER      DOWN                \n[  208853.708705] /dev/input/event3: EV_ABS       ABS_MT_TRACKING_ID   00001205            \n[  208853.708705] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    00001b65            \n[  208853.708705] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    0000147d            \n[  208853.708705] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   00000029            \n[  208853.708705] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   00000029            \n[  208853.708705] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208853.716265] /dev/input/event3: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            \n[  208853.716265] /dev/input/event3: EV_KEY       BTN_TOOL_FINGER      UP                  \n"
+    }
+}
+

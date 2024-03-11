@@ -1,0 +1,85 @@
+{
+    "gesture_39": {
+        "events": {
+            "0": [
+                [
+                    583.1071754134654,
+                    1878.7853162520826,
+                    208845.209572
+                ],
+                [
+                    583.388462039328,
+                    1878.3710001723443,
+                    208845.327861
+                ],
+                [
+                    584.3729652298476,
+                    1876.7137358533923,
+                    208845.335795
+                ],
+                [
+                    586.3419716108868,
+                    1873.5373125754006,
+                    208845.343998
+                ],
+                [
+                    589.436124495377,
+                    1868.703624978457,
+                    208845.351893
+                ],
+                [
+                    593.3741372574555,
+                    1862.626989142299,
+                    208845.359751
+                ],
+                [
+                    597.7340799583279,
+                    1855.8598265065777,
+                    208845.367769
+                ],
+                [
+                    602.0940226592004,
+                    1849.2307692307693,
+                    208845.375974
+                ],
+                [
+                    606.0320354212788,
+                    1843.292238754524,
+                    208845.38377
+                ],
+                [
+                    609.2668316187004,
+                    1838.3204457976676,
+                    208845.391915
+                ],
+                [
+                    611.798411251465,
+                    1834.5916010800252,
+                    208845.399775
+                ],
+                [
+                    613.6267743195729,
+                    1831.9675992416844,
+                    208845.407992
+                ],
+                [
+                    614.8925641359552,
+                    1830.034124202907,
+                    208845.415792
+                ],
+                [
+                    615.7364240135435,
+                    1828.7911759636927,
+                    208845.423769
+                ],
+                [
+                    616.5802838911317,
+                    1827.9625438042167,
+                    208845.431872
+                ]
+            ]
+        },
+        "raw_texts": "[  208845.209572] /dev/input/event3: EV_KEY       BTN_TOUCH            DOWN                \n[  208845.209572] /dev/input/event3: EV_KEY       BTN_TOOL_FINGER      DOWN                \n[  208845.209572] /dev/input/event3: EV_ABS       ABS_MT_TRACKING_ID   00001200            \n[  208845.209572] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    00001032            \n[  208845.209572] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    00003524            \n[  208845.209572] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   00000024            \n[  208845.209572] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   00000024            \n[  208845.209572] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.216680] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   0000002b            \n[  208845.216680] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   0000002b            \n[  208845.216680] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.223707] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   00000030            \n[  208845.223707] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   00000030            \n[  208845.223707] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.231778] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   00000033            \n[  208845.231778] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   00000033            \n[  208845.231778] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.239795] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   00000035            \n[  208845.239795] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   00000035            \n[  208845.239795] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.248009] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   00000038            \n[  208845.248009] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   00000038            \n[  208845.248009] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.255759] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   0000003a            \n[  208845.255759] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   0000003a            \n[  208845.255759] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.263814] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   0000003b            \n[  208845.263814] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   0000003b            \n[  208845.263814] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.271954] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   0000003c            \n[  208845.271954] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   0000003c            \n[  208845.271954] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.279888] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   0000003d            \n[  208845.279888] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   0000003d            \n[  208845.279888] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.327861] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    00001034            \n[  208845.327861] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    00003521            \n[  208845.327861] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.335795] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    0000103b            \n[  208845.335795] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    00003515            \n[  208845.335795] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.343998] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    00001049            \n[  208845.343998] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    000034fe            \n[  208845.343998] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.351893] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    0000105f            \n[  208845.351893] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    000034db            \n[  208845.351893] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.359751] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    0000107b            \n[  208845.359751] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    000034af            \n[  208845.359751] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.367769] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    0000109a            \n[  208845.367769] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    0000347e            \n[  208845.367769] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.375974] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    000010b9            \n[  208845.375974] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    0000344e            \n[  208845.375974] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.383770] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    000010d5            \n[  208845.383770] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    00003423            \n[  208845.383770] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.391915] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    000010ec            \n[  208845.391915] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    000033ff            \n[  208845.391915] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.399775] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    000010fe            \n[  208845.399775] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    000033e4            \n[  208845.399775] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.407992] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    0000110b            \n[  208845.407992] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    000033d1            \n[  208845.407992] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.415792] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    00001114            \n[  208845.415792] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    000033c3            \n[  208845.415792] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   00000038            \n[  208845.415792] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   00000038            \n[  208845.415792] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.423769] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    0000111a            \n[  208845.423769] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    000033ba            \n[  208845.423769] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   0000002e            \n[  208845.423769] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   0000002e            \n[  208845.423769] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.431872] /dev/input/event3: EV_ABS       ABS_MT_POSITION_X    00001120            \n[  208845.431872] /dev/input/event3: EV_ABS       ABS_MT_POSITION_Y    000033b4            \n[  208845.431872] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MAJOR   00000029            \n[  208845.431872] /dev/input/event3: EV_ABS       ABS_MT_TOUCH_MINOR   00000029            \n[  208845.431872] /dev/input/event3: EV_SYN       SYN_REPORT           00000000            \n[  208845.438526] /dev/input/event3: EV_ABS       ABS_MT_TRACKING_ID   ffffffff            \n[  208845.438526] /dev/input/event3: EV_KEY       BTN_TOOL_FINGER      UP                  \n"
+    }
+}
+
