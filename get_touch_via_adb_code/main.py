@@ -55,7 +55,7 @@ if __name__ == '__main__':
     x_ratio = screen_width / x_abs_mt_max
     y_ratio = screen_height / y_abs_mt_mt
 
-    adb_command = "cd C:\\Users\\fengs\\AppData\\Local\\Android\\Sdk\\platform-tools && adb devices && adb shell getevent -t -l"
+    adb_command = f"cd C:\\Users\\{configs.computer_user_name}\\AppData\\Local\\Android\\Sdk\\platform-tools && adb devices && adb shell getevent -t -l"
     # os.system(adb_command)
 
     # 使用subprocess.Popen启动进程
