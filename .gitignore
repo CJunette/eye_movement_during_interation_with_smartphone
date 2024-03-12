@@ -1,2 +1,4 @@
-data_analyse_code/*
+data_analyse_code/log/*
+data_analyse_code/video/*
 screen_video_analyse_code/*
+get_tobii_data_code/log/*

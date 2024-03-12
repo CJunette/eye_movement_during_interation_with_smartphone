@@ -153,7 +153,7 @@ if __name__ == '__main__':
             elif "BTN_TOOL_FINGER" in line and "UP" in line:
                 # delete those slots which have no points
                 slot_dict = {slot: slot_dict[slot] for slot in slot_dict if len(slot_dict[slot]) > 0}
-                file_prefix = f"log/exp_{configs.exp_num}"
+                file_prefix = f"log/exp_{configs.exp_num}/gesture"
                 if not os.path.exists(file_prefix):
                     os.makedirs(file_prefix)
 

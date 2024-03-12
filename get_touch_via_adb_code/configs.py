@@ -1,4 +1,4 @@
-exp_num = 1
-computer_user_name = "stya" # fengs, syta
+exp_num = 2
+computer_user_name = "syta" # fengs, syta
 
 
